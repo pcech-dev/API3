@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+form {
+    margin-bottom: 3rem;
+}
+
+.hidden {
+    display: none;
+}
